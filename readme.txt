@@ -53,4 +53,8 @@ If the required resistance is between values of resistor, it is advisable to use
 at the cost of brightness in order to extend the life of the display. Resistors of smaller values can be
 connected in series to make up the value. eg 100R and 220R in series would give 320R resistance overall.
 
-#Use Digit Mapper.xlsx to map out pin outs for custom segment display. Enter a 'y' in each segment you wish to be list, then copy the output array for your version of display (A or B) and add it to the mapping variables. Non-alpha numeric layouts can be added, but you will need to assign them an alpha-numeric character in order to display them. Preferably choose one of the undisplayable characters from the lists contained in the Excel document to avoid confusion with otherwise valid displayable characters.
+Use Digit Mapper.xlsx to map out pin outs for custom segment display. Enter a 'y' in each segment you wish to be lit, 
+then copy the output array for your version of display (A or B) and add it to the mapping variables. Non-alpha numeric 
+layouts can be added, but you will need to assign them an alpha-numeric character in order to display them. 
+Preferably choose one of the undisplayable characters from the lists contained in the Excel document to avoid confusion 
+with otherwise valid displayable characters.
