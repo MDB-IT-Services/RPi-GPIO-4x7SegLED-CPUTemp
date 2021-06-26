@@ -1,14 +1,14 @@
 *Code modified, tweaked and tailored from code by bertwert 
 on RPi forum thread topic 91796*
 
- **              (       )  
+               (       )  
     (          )\ ) ( /(  
   ( )\ (   (  (()/( )\()) 
   )((_))\  )\  /(_)|(_)\  
  ((_)_((_)((_)(_))__ ((_) 
  | _ ) __| __/ __\ \ / / 
  | _ \ _|| _|\__ \\ V /  
- |___/___|___|___/ |_|**
+ |___/___|___|___/ |_|
 
 2017-11-04 - MDB IT Services
 Temperature readings, conversion and scrolling functionality added by Beesy
