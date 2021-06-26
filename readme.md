@@ -28,11 +28,12 @@ The configuration described in this script is based upon using 15mA (0.015A) to 
 
 If using 5v GPIO, the calculation would be as follows:
 
-`R = (V(i) - V(f)) / I
+```
+R = (V(i) - V(f)) / I
 R = (5v - 1.8v) / 0.015A
 R = 3.2v / 0.015A
-R = 213.333 Ohms`
-
+R = 213.333 Ohms
+```
 It is therefore recommended to use 220R resistors when using 5v GPIO.
 
 If any of your values differ by setup (GPIO voltage) or display (forward voltage / current tolerance)
